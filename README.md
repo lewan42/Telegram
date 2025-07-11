@@ -37,3 +37,9 @@ You will require Android Studio 3.4, Android NDK rev. 20 and Android SDK 8.1
 ### Localization
 
 We moved all translations to https://translations.telegram.org/en/android/. Please use it.
+
+
+
+https://github.com/user-attachments/assets/5da2bd67-5d50-4f04-ae68-ba7970f84a37
+
+
