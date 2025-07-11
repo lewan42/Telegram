@@ -1,5 +1,7 @@
 ## Telegram messenger for Android
 
+https://github.com/user-attachments/assets/5da2bd67-5d50-4f04-ae68-ba7970f84a37
+
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
 
@@ -37,9 +39,4 @@ You will require Android Studio 3.4, Android NDK rev. 20 and Android SDK 8.1
 ### Localization
 
 We moved all translations to https://translations.telegram.org/en/android/. Please use it.
-
-
-
-https://github.com/user-attachments/assets/5da2bd67-5d50-4f04-ae68-ba7970f84a37
-
 
