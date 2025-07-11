@@ -450,7 +450,6 @@ public class ProfileActivity extends BaseFragment implements NotificationCenter.
     private boolean loadingUsers;
     private LongSparseArray<TLRPC.ChatParticipant> participantsMap = new LongSparseArray<>();
     private boolean usersEndReached;
-
     private long banFromGroup;
     private boolean openAnimationInProgress;
     private boolean transitionAnimationInProress;
